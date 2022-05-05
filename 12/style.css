@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(54, 54, 54);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orangered;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkorange;
+}
+
+p.center {
+    text-align: center;
+}
+
+p.big {
+    font-size: large;
+}
